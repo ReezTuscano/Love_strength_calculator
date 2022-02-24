@@ -22,11 +22,18 @@ I always knew we had a connection between us. :):):)
 
 And you're like, Huh, I wonder how viable our love is?
 Who can really know!
+
+![image](https://user-images.githubusercontent.com/100014146/155507748-d60fa7fb-9d1b-462b-9cc0-006d181b8ba1.png)
+
+
 GUESS WHAT: You can! With this highly scientific, definitely valid game.
 All you need is a paper and pen, the ability to do basic addition, and a flexible idea of percentages.
 Here's what you do.
 
+![image](https://user-images.githubusercontent.com/100014146/155507533-6ef9306d-6895-4546-a3b3-00ab0a6670f2.png)
+
 Write your name, your crush's name, and then "True Love" in two columns, as below.
+
 
 
 
