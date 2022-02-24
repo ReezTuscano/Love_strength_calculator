@@ -30,7 +30,7 @@ for name in name_of_girl_and_boy:
     for love_characters in characters_to_compare_in_love:
         number_of_times_letters_of_love_appeared += name.count(love_characters)
     
-    
+     
 #love score is the sum of number_of_times_letters_of_true_appeared * 10 + number_of_times_letters_of_love_appeared
 love_score = number_of_times_letters_of_true_appeared * 10 + number_of_times_letters_of_love_appeared
 
